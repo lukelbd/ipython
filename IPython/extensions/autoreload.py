@@ -299,6 +299,7 @@ func_attrs = [
     "__closure__",
     "__globals__",
     "__dict__",
+    "__kwdefaults__",
 ]
 
 
